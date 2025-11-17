@@ -16,7 +16,6 @@ import image21 from "./assets/image21.png";
 import image22 from "./assets/image22.png";
 import image23 from "./assets/image23.png";
 import image24 from "./assets/image24.png";
-import flower from "./assets/flower.png";
 
 import big2 from "./assets/big2.png";
 
