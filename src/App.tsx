@@ -73,7 +73,7 @@ export const App = () => {
 
   const handleClickSubmit = () => {
     window.gtag("event", "6649_get_sub", {
-      variant_name: "ghk_6649_1",
+      variant_name: "6649_1",
     });
 
     LS.setItem(LSKeys.ShowThx, true);
